@@ -1,0 +1,28 @@
+body {
+    font-family: sans-serif;
+    max-width: 400px;
+    margin: 40px auto;
+    padding: 20px;
+    background: #f9f9f9;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  }
+  
+  input, button {
+    display: block;
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 8px;
+  }
+  
+  button {
+    background: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background: #0056b3;
+  }
+  
